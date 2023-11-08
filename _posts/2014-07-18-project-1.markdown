@@ -1,11 +1,7 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
 img: cabin.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Humano est un projet réalisé dans le cadre du cours d'Animation 3D et de Conception sonore intéractive. La tâche du projet était de modéliser, d'animer et de créer une ambiance sonore sur le thème de l'empathie abstrait. J'ai décidé de créer une oeuvre qui n'avait pas de sens précis, mais qui était attrayant. Pour créer et animer les modèles 3D, j'ai utilisé le logiciel Maya Autodesk. À l'aide du « nCloth », « Passive Collider » et du « Gravity » j'ai pu réaliser certains effets qui n'auraient pas été possible sans ceux-ci. Pour la création sonore, j'ai utilisé le logiciel Reaper et le logiciel VCV Rack.
 ---

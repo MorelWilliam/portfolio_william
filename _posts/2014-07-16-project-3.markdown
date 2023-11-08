@@ -1,11 +1,8 @@
 ---
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: circus.png
+img: cabin.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Gérard est un projet réalisé dans le cadre du cours de Réalité Virtuelle. Notre tâche était de réaliser une intéraction en réalité augmentée. L'intéracteut doit scanner, à l'aide d'un appareil possedant une caméra, une feuille ayant l'image de détection.
+Au lancement de l'application, l'utilisateur aura le choix entre lire les consignes, quitter l'application et lancer l'experience. Lorsque l'utilisateur interagit avec le bouton des consignes un "panel" sera activé et les consignes apparaitront et si l'utilisateur appuie sur le bouton x, le "pannel" va se fermer. Par ailleurs, lorsque l'intéracteur appuie sur le bouton commencer, la caméra de son appareil va s'allumer et l'application sera prête à détecter l'image de détection.
 ---

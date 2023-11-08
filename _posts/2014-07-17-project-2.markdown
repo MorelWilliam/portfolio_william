@@ -1,11 +1,7 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: cake.png
+img: cabin.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Contrôle est un projet réalisé dans le cadre du cours de Montage Vidéo. À l'aide de 4 de mes cooéquipers, nous avons réalisé une oeuvre critiquant la sur utilisation de la surveillance durant la 2e guerre mondiale. Pour ce faire, nous avons idéalisé l'histoire d'une société où tout était filmé et chaque pas de votre journée étaient capté par ces caméras. Avec mes cooéquipers, nous avons parcouru les stations de métro pour trouver celle qui nous convenait. Par ailleurs, lors du montage, nous avons dû utiliser un "template" pour pouvoir afficher nos vidéos sur 4 écrans différents. Ce projet nous a appris comment l'emplacement de visionnement change drastiquement l'expérience des spectateurs.
 ---
